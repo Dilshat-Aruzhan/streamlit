@@ -21,6 +21,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
+matplotlib
 mdurl==0.1.2
 narwhals==1.14.2
 numpy==1.26.4
